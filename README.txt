@@ -6,7 +6,7 @@ of access from existing files, and invite others to access files.
 Users are authenticated with a username and password. This project
 utilizes SHA512 hashes, HMACs, Public Key Encryption, Digital
 Signatures, Hash-Based Key Derivation, Symmetric Encryption, and
-a Keystore/Datastore. This application is also resiliant to Datastore
-and revoked user adversaries. The crypto utilities just listed were provided
-by the course staff, but the design, imtegration, and testing of the
+a Keystore/Datastore. This application is also resilient to Datastore
+and revoked user adversaries. The crypto-utilities just listed were provided
+by the course staff, but the design, integration, and testing of the
 application were all done by me. 
